@@ -12,13 +12,13 @@ As for the least-squares support vector machines, the *LS-SVMlab v1.8 toolbox* (
 The data was downloaded in B3's (Brazil's stock exchange) website, inside the [data service area](http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/cotacoes-historicas/). The 27 assets that most represented the index were chosen to be fed into the models. The data was then detrended and normalized. Instead of the price, the daily traded volume of the assets was used.
 
 ## Images
-**NARX ANN function aproximation**
+**NARX ANN function estimation**
 ![](images/ann_plot.JPG)
 
 **NARX ANN five steps-ahead prediction**
 ![](images/ann_prediction.jpg)
 
-**NARX LS-SVM function aproximation**
+**NARX LS-SVM function estimation**
 ![](images/lssvm_plot.jpg)
 
 ## Toolboxes
