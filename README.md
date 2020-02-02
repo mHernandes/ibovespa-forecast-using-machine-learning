@@ -9,7 +9,7 @@ The Artificial Neural Network (ANN) was developed based on the *nnstart toolbox*
 As for the least-squares support vector machines, the *LS-SVMlab v1.8 toolbox* (LS-SVM v.1.8, Suykens, Leuven, Belgium) (Suykens et al., 2011) is used. The chosen kernel was the gaussian radial basis function; the tuning parameters (gam and sig2) were found using leave-one-out crossvalidation and simplex was the optimization algorithm used.
 
 ### Data
-The data was downloaded in B3's (Brazil's stock exchange) website, inside the [data service area](http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/cotacoes-historicas/). The 27 assets that most represented the index (approximately 83%) were chosen to be fed into the models. The data was then detrended and normalized. Instead of the price, the daily traded volume of the assets was used.
+The data was downloaded in B3's (Brazil's stock exchange) website, inside the [data service area](http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/cotacoes-historicas/). The 27 assets that most represented the index were chosen to be fed into the models. The data was then detrended and normalized. Instead of the price, the daily traded volume of the assets was used.
 
 ## Images
 **NARX ANN function aproximation**
