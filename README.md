@@ -1,5 +1,5 @@
 # Ibovespa forecast using NARX ANN and NARX LS-SVM
-Ibovespa (Brazil's main stock exchange index) forecast using Nonlinear Autoregressive Exogenous Artificial Neural Network (NARX ANN) and Nonlinear Autoregressive Exogenous Least-Squares Support Vector Machine (NARX LS-SVM) for an university project, on MATLAB. 
+Ibovespa (Brazil's main stock exchange index) forecast using Nonlinear Autoregressive Exogenous Artificial Neural Network (NARX ANN) and Nonlinear Autoregressive Exogenous Least-Squares Support Vector Machine (NARX LS-SVM), on MATLAB. 
 
 ## Model parameters and data
 ### Model parameters - NARX ANN
